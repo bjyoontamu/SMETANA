@@ -5,13 +5,12 @@ SMETANA finds the multiple alignment of a set of (biological) networks
 
 SMETANA is written in MATLAB.
 
-------------------------------Release Note------------------------------
-Date: 10.31.2018
+Release Note:
+    10.31.2018
 	1. A bug fixed in input networks read code
 	2. Optimizing network read code  
 
---------------------------Matlab Implementaion--------------------------
-
+Matlab Implementaion:
  Usage:
 	alignment=SMETANA(Net_id_list,input_folder,id_flag,out_file)
 
